@@ -230,6 +230,9 @@ This project is open source and available under the MIT License.
 
 **Puneet**
 - GitHub: [@Puneet902](https://github.com/Puneet902)
+**Nikhil**
+- GitHub: [@Devblaze14](https://github.com/Devblaze14)
+
 
 ## 🙏 Acknowledgments
 
